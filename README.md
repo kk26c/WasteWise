@@ -28,9 +28,6 @@ We believe that positive reinforcement is key to promoting lasting change. Waste
 ### Community Engagement 🦾:
 Our app hosts various organizations that actively host social cleanups in the city. These organizations can host their activities as challenges and get the volunteers they need through our application. Volunteers can get rewarded for their participation to keep going and stay motivated.
 
-## Distribution
-______________________________________________________________________________________________________________________________________________________
- Download Apk ✅- [Click here](https://drive.google.com/file/d/1s6Hl5xzrmAga_N_gSDMuoIp26j4nfgwN/view?usp=sharing)
  
 
 ## Technologies
